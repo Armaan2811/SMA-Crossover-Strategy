@@ -1,6 +1,4 @@
-# SMA-Crossover-Strategy
-A beginner quant project using Python to build a simple SMA crossover trading strategy.
-# SMA Crossover Strategy – Quant Project (Beginner Level)
+# SMA Crossover Strategy – Quant Project 
 
 This project implements a basic 10-day vs 30-day Simple Moving Average (SMA) crossover trading strategy using Python.
 
